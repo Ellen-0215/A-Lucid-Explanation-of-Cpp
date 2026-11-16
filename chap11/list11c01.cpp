@@ -1,4 +1,4 @@
-// 日期类 Date ( 添加成员函数调用次数 )
+// 日期类 Date（添加成员函数调用次数）
 #include <iostream>
 using namespace std;
 class Date {
